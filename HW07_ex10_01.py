@@ -1,5 +1,5 @@
 # I want to be able to call nested_sum from main w/ various nested lists
-# and get returned the sum.
+# and I greatly desire that the function returns the sum.
 # Ex. [1, 2, [3]]
 # Verify you've tested w/ various nestings.
 # In your final submission: 

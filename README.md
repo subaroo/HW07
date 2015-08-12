@@ -12,6 +12,7 @@
 ###Google for Education:
 ####[Python Lists][plists] and [Python Sorting][sorting]
 > List Comprehensions ~~(optional)~~
+
 + HW07_list1.py
 
 ####[Chapter 11: Dictionaries][ch11]
