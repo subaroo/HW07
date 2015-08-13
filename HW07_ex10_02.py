@@ -5,3 +5,38 @@
 # In your final submission: 
 #  - Do not print anything extraneous!
 #  - Do not put anything but pass in main()
+
+
+
+
+def capitalize_nested(l):
+	'''
+	This function capitalizes the first letter of every item in a list. 
+	'''
+	capitalized_list = []
+	for s in l:
+		capitalized_list.append(s.capitalize())
+	return capitalized_list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##############################################################################
+def main():
+	pass
+    
+
+if __name__ == '__main__':
+    main()
